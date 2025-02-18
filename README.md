@@ -32,6 +32,7 @@ Each link is a gateway to a world of innovation, a testament to dedication, and 
 * [Prasenjit Nayak](https://www.prasen.dev/)
 * [Soumyodeep Dey](https://soumyodeep-dey.vercel.app/)
 * [Stephen Omoregie](https://cre8stevedev.me)
+* [Damilare Ajetunmobi](https://damilareajetunmobi.vercel.app)
 <!-- CONTRIBUTORS_END -->
 
 ## How to Contribute
